@@ -6,10 +6,9 @@
 <p align="center">
 <a href="https://www.instagram.com/madanii0/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.linkden.com/madani-el/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
-</a>
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png"/>
-
+ 
 
 ```yaml
 * My name is El Madani, I'm from Morocco *
