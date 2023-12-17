@@ -9,3 +9,7 @@
 
 <p align="center">
 <img height="400" src="https://media3.giphy.com/media/Hw0wIr1YL75VC/giphy.gif?cid=ecf05e47n374m4zd82rhuw2aao8v7osi4b10jv17ju2zcsj2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
+```yaml
+* YOUR TEXT GOES HERE *
+```
