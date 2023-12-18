@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text= We 🕹️&animation=fadeIn&type=waving&color=gradient&height=90"/>
+  <img src="https://capsule-render.vercel.app/api?text= We 🕹️ &animation=fadeIn&type=waving&color=gradient&height=90"/>
 </p>
 
 ## Let's connect :
