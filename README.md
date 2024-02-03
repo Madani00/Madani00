@@ -15,7 +15,7 @@
 ```
 # A passionate Software Engineering Student
 <p align="center">
-<img height="400" src="https://tenor.com/view/oh-yeah-reading-gif-9516478&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img height="400" src="https://tenor.com/view/oh-yeah-reading-gif-9516478"/>
 
 
 
