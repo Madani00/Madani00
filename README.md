@@ -15,7 +15,7 @@
 ```
 # A passionate Software Engineering Student
 <p align="center">
-<img height="400" src="https://tenor.com/view/oh-yeah-reading-gif-9516478"/>
+<div class="tenor-gif-embed" data-postid="9516478" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oh-yeah-reading-gif-9516478">Oh Yeah GIF</a>from <a href="https://tenor.com/search/oh-gifs">Oh GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
