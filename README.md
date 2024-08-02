@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
  
 
-> *My name is El Madani, I'm from Morocco*
 
 # A passionate Software Engineering Student
 <p align="center">
