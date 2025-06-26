@@ -64,6 +64,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madani00&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madani00&layout=donut)
 
 
