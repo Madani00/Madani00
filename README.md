@@ -12,11 +12,13 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
+# A passionate Software Engineering Student
+<p align="center">
+<img height="400" src="https://media3.giphy.com/media/Hw0wIr1YL75VC/giphy.gif?cid=ecf05e47n374m4zd82rhuw2aao8v7osi4b10jv17ju2zcsj2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <h2 align="left">🖝 Tools and Languages 🧰</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
