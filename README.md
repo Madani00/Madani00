@@ -52,12 +52,10 @@
 
 ---
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madani00&hide=stars&show_icons=true&theme=tokyonight)]
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madani00&hide=stars&show_icons=true&theme=tokyonight)
 
 ---
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madani00&layout=donut)](https://github.com/Madani00/github-readme-stats)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madani00&layout=donut)](https://github.com/Madani00/github-readme-stats)
+
